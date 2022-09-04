@@ -3,7 +3,7 @@
 Program that determines how many “degrees of separation” apart two actors are using **breadth-first search algorithm**.
 
 ----------------------------------------------------------------------------------------------------------------------
-**Specification of implmented function: **
+**Specification of implmented function:**
 
 Complete the implementation of the shortest_path function such that it returns the shortest path from the person with 
 id source to the person with the id target.
